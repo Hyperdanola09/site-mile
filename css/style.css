@@ -2725,6 +2725,15 @@ nav ul li a:hover {
   font-size: 13px;
   line-height: 1.5;
 }
+.footer-copyright {
+  width: 90%;
+  max-width: 1250px;
+  margin: 30px auto 0;
+  text-align: center;
+  color: #afc4b7;
+  font-size: 13px;
+  line-height: 1.5;
+}
 .icom2{
   position: absolute;
   width: 85vw;
